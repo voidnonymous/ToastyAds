@@ -1,0 +1,33 @@
+#Amazon Ads
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+amazonclix.com
+#Analytics
+freshmarketer.com/
+#Error Trackers
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+app.getsentry.com
+#Social Trackers
+advertising.twitter.com
+widgets.pinterest.com
+d.reddit.com
+analytics-sg.tiktok.com
+#Mix
+appmetrica.yandex.com
+#OEM
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+metrics.data.hicloud.com
+metrics1.data.hicloud.com
+metrics2.data.hicloud.com
+metrics5.data.hicloud.com 
+logservice.hicloud.com
+logservice1.hicloud.com
+metrics-dra.dt.hicloud.com
+logbak.hicloud.com
+click.oneplus.cn
+business.samsungusa.com
+analytics-api.samsunghealthcn.com
+supportmetrics.apple.com
